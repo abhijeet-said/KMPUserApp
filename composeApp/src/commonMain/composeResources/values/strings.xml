@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="KMPUserApp">KMP User App</string>
+    <string name="LoginHeader">Enter your Login Credentials</string>
+    <string name="AllUserHeader">All User List</string>
+</resources>
